@@ -1,4 +1,4 @@
-# A simple blog with posts and with a very simple design
+# A simple blog with posts and with a very basic design
 
 ### Used in development: 
 - React v17
