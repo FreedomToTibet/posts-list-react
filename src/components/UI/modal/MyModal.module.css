@@ -1,0 +1,19 @@
+.myModal {
+	position: fixed;
+	inset: 0;
+	display: none;
+	background: rgba(0, 0, 0, .5);
+}
+
+.myModal.active {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.myModalContent {
+	padding: 25px;
+	background: rgb(241, 235, 235);
+	border-radius: 16px;
+	min-width: 250px;
+}
